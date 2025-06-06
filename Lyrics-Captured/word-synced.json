@@ -1,0 +1,111 @@
+{
+    "StartTime": 10.205,
+    "EndTime": 230.007,
+    "Type": "Syllable",
+    "Content": [
+        {
+            "Type": "Vocal",
+            "OppositeAligned": false,
+            "Lead": {
+                "Syllables": [
+                    {
+                        "Text": "May",
+                        "IsPartOfWord": true,
+                        "StartTime": 10.205,
+                        "EndTime": 10.409
+                    },
+                    {
+                        "Text": "be",
+                        "IsPartOfWord": false,
+                        "StartTime": 10.409,
+                        "EndTime": 10.591
+                    },
+                    {
+                        "Text": "I",
+                        "IsPartOfWord": false,
+                        "StartTime": 10.591,
+                        "EndTime": 10.71
+                    },
+                    {
+                        "Text": "came",
+                        "IsPartOfWord": false,
+                        "StartTime": 10.71,
+                        "EndTime": 11.132
+                    },
+                    {
+                        "Text": "on",
+                        "IsPartOfWord": false,
+                        "StartTime": 11.132,
+                        "EndTime": 11.511
+                    },
+                    {
+                        "Text": "too",
+                        "IsPartOfWord": false,
+                        "StartTime": 11.511,
+                        "EndTime": 11.916
+                    },
+                    {
+                        "Text": "strong",
+                        "IsPartOfWord": false,
+                        "StartTime": 11.916,
+                        "EndTime": 12.455
+                    }
+                ],
+                "StartTime": 10.205,
+                "EndTime": 12.455
+            }
+        },
+        {
+            "Type": "Vocal",
+            "OppositeAligned": false,
+            "Lead": {
+                "Syllables": [
+                    {
+                        "Text": "May",
+                        "IsPartOfWord": true,
+                        "StartTime": 15.374,
+                        "EndTime": 15.659
+                    },
+                    {
+                        "Text": "be",
+                        "IsPartOfWord": false,
+                        "StartTime": 15.659,
+                        "EndTime": 15.87
+                    },
+                    {
+                        "Text": "I",
+                        "IsPartOfWord": false,
+                        "StartTime": 15.87,
+                        "EndTime": 16.071
+                    },
+                    {
+                        "Text": "wai",
+                        "IsPartOfWord": true,
+                        "StartTime": 16.071,
+                        "EndTime": 16.477
+                    },
+                    {
+                        "Text": "ted",
+                        "IsPartOfWord": false,
+                        "StartTime": 16.477,
+                        "EndTime": 16.842
+                    },
+                    {
+                        "Text": "too",
+                        "IsPartOfWord": false,
+                        "StartTime": 16.842,
+                        "EndTime": 17.199
+                    },
+                    {
+                        "Text": "long [LYRICS AFTER THIS EMITTED FOR READABILITY, ACTUALLY THERE'S A LOT OF VOCAL BRACES AFTER THIS]",
+                        "IsPartOfWord": false,
+                        "StartTime": 17.199,
+                        "EndTime": 18.013
+                    }
+                ],
+                "StartTime": 15.374,
+                "EndTime": 18.013
+            }
+        }
+    ]
+}

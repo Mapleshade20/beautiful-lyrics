@@ -1,0 +1,35 @@
+{
+    "StartTime": 3.594,
+    "EndTime": 181.585,
+    "Type": "Line",
+    "Content": [
+        {
+            "Type": "Vocal",
+            "OppositeAligned": false,
+            "Text": "Like a spotlight, the water hits me",
+            "StartTime": 3.594,
+            "EndTime": 6.8149999999999995
+        },
+        {
+            "Type": "Vocal",
+            "OppositeAligned": false,
+            "Text": "Ran it extra cold to shake the words from my mouth [LYRICS IN THE MIDDLE EMITTED FOR READABILITY]",
+            "StartTime": 8.922,
+            "EndTime": 13.164
+        },
+        {
+            "Type": "Vocal",
+            "OppositeAligned": false,
+            "Text": "You set the other on fire",
+            "StartTime": 175.585,
+            "EndTime": 178.343
+        },
+        {
+            "Type": "Vocal",
+            "OppositeAligned": false,
+            "Text": "You set the other on fire",
+            "StartTime": 178.353,
+            "EndTime": 181.585
+        }
+    ]
+}
